@@ -1,5 +1,4 @@
 # Blinking-LED
-
 Python code for using Raspberry Pi for blinking LED using RPi module.
 
 Tools used:
